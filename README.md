@@ -2,7 +2,7 @@
 
 From Reconstructing medical image from advanced ai module
 
-
+```
 ├── dataset.py
 ├── models
 │   ├── swin_unet.py
@@ -22,3 +22,4 @@ From Reconstructing medical image from advanced ai module
 ├── wk6_assignment.ipynb (file where ablation table is generated)
 ├── requirements.txt (packages installed to run code)
 └── wrist_tofc (NOT in repo but where it should be for path reference)
+```
